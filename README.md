@@ -50,7 +50,7 @@ This Automation Script is a Python-based tool designed to automate repetitive cl
    - Enter the number of repetitions.
    - Enter the delay time (in seconds) between clicks.
 4. **Start Automation:** Confirm and let the script perform the clicks.
-5. **Stop Anytime:** Use **Ctrl+C** to stop the script.
+5. **Stop Anytime:** Use **ESC** to stop the script.
 
 ---
 
