@@ -23,8 +23,8 @@ This Automation Script is a Python-based tool designed to automate repetitive cl
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/maz3siri/automation-script.git
-   cd automation-script
+   git clone https://github.com/maz3siri/automation
+   cd automation
    ```
 
 2. Install dependencies:
@@ -34,7 +34,7 @@ This Automation Script is a Python-based tool designed to automate repetitive cl
 
 3. Run the script:
    ```bash
-   python script.py
+   python automation.py
    ```
 
 ---
