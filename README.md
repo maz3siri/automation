@@ -67,10 +67,5 @@ Use this script responsibly. The author is not responsible for misuse or any dam
 
 ---
 
-## 📬 **Feedback & Support**
-For any feedback, questions, or support, reach out via [GitHub Issues](https://github.com/maz3siri/automation-script/issues).
-
----
-
 **Happy Automating! 🚀**
 
