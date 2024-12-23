@@ -1,4 +1,4 @@
-# 🛠️ Automation Script v1.5
+# 🛠️ Automation Script v2
 
 **Author:** Mazen Asiri  
 **GitHub:** [@maz3siri](https://github.com/maz3siri)
